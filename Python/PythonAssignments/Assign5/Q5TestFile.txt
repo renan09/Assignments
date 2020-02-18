@@ -1,0 +1,10 @@
+Understanding the complicated, intertwined relationship between Keras and 
+TensorFlow is like listening to the love story of two high school sweethearts
+who start dating, break up, and eventually find their way together — it’s long, detailed, 
+and at some points even contradictory.
+Instead of recalling the full love story for you, instead we’ll review the CliffsNotes:
+Keras was originally created and developed by Google AI Developer/Researcher, Francois Chollet.
+Francois committed and released the first version of Keras to his GitHub on March 27th, 2015.
+Initially, Francois developed Keras to facilitate his own research and experiments.
+However, with the explosion of deep learning popularity, many developers, programmers, and machine learning practitioners flocked to Keras due to its easy-to-use API.
+Back then, there weren’t too many deep learning libraries available — the popular ones included Torch, Theano, and Caffe.
